@@ -1,3 +1,3 @@
-# Andre-Loreti
+# AndreLoreti
 
 Teste 123
