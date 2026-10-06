@@ -50,13 +50,11 @@ I'm a student in **LEIM at ISEL** (Lisbon), where I get to mix software, electro
   <img src="https://img.shields.io/badge/Blockbench-1E90FF?style=for-the-badge" />
 </p>
 
-**Also in my toolbox:** Paper/Fabric APIs · Velocity · Geyser/Floodgate · LuckPerms · GrimAC · Spark · Tebex · Google Apps Script · Wireshark · Malwarebytes · ElevenLabs
-
 ---
 
 ## 🎯 Interests
 
-`Cybersecurity` · `Embedded systems` · `Digital audio & DSP` · `Game development` · `Computer vision` · `Content creation` · `Competitive Minecraft PvP`
+`Cybersecurity` · `Embedded systems` · `Digital audio & DSP` · `Game development` · `Computer vision` · `Content creation`
 
 ---
 
