@@ -47,7 +47,7 @@ I'm a student in **LEIM at ISEL** (Lisbon), where I get to mix software, electro
 <p>
   <img src="https://skillicons.dev/icons?i=ps,figma,blender" />
   <img src="https://img.shields.io/badge/DaVinci_Resolve-233A51?style=for-the-badge&logo=davinciresolve&logoColor=white" />
-  <img src="https://img.shields.io/badge/Blockbench-1E90FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Blockbench-1E90FF?style=for-the-badge" /> </p>
 </p>
 
 ---
